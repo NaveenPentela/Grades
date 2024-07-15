@@ -1,18 +1,4 @@
-#Project R code file for the topic Data Engineering Semester 1 2024
-#The template serves as a suggestion for structuring your submissions. You are not limited by this template and are encouraged to present in a way that best showcases your work on the project. You should remove this line from your submissions.
-#Student name:	Naveen Pentela  
-#FAN ID: 	pent0020
-#Email address:	pent0020@flinders.edu.au
-#Class enrolled:	COMP2031/COMP8031
-#Tutorial class: 	Tutorial 1
-#Group name:	F7
-#Names of other group members: 
-#1)Marababu Vasupilli (vasu0011)
-#2)Shravan Kumar Nallavolu (nall0020) 
-#3)Likhitha Gandla (gand0089)
-#4)Somya Yadav (yada0086)
-
-
+#Project R code file for the topic Data Engineering
 
 # Install the packages if not installed yet
 install.packages("mongolite")
