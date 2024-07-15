@@ -1,3 +1,11 @@
+## Copyright (C) 2024 Naveen Pentela @ Flinders University
+## All Rights Reserved
+
+##----------------------------------------------------------------------------##
+## Required dependencies.
+##----------------------------------------------------------------------------##
+
+
 #Project R code file for the topic Data Engineering
 
 # Install the packages if not installed yet
